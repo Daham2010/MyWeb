@@ -1,0 +1,29 @@
+<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Designing Luxury Web Experiences</title>
+  <meta name="description" content="How to design luxury, premium websites using modern UI/UX principles." />
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+
+<section class="blog-post">
+  <h1>Designing Luxury Web Experiences</h1>
+  <p class="blog-meta">By Daham Prabhasara · Sri Lanka</p>
+
+  <p>
+    Luxury web design is about clarity, performance, and elegance.
+    I focus on minimal layouts, premium typography, and smooth motion.
+  </p>
+
+  <p>
+    Using modern technologies like Three.js, GSAP, and optimized CSS,
+    I build experiences that feel exclusive and fast.
+  </p>
+
+  <a href="../index.html">← Back to Home</a>
+</section>
+
+</body>
+</html>
