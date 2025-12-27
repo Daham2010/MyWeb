@@ -1,0 +1,34 @@
+<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Blog Admin | Daham Prabhasara</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+
+<section class="admin">
+  <h1>Blog Management</h1>
+
+<form class="blog-form">
+  <input id="blogTitle" type="text" placeholder="Blog Title" />
+
+  <select id="blogCategory">
+    <option>UI/UX</option>
+    <option>Performance</option>
+    <option>AI</option>
+    <option>Design</option>
+  </select>
+
+  <textarea id="blogContent" rows="10" placeholder="Write blog content (Markdown supported)"></textarea>
+
+  <div class="admin-actions">
+    <button type="button" id="aiGenerate">✨ AI Write Blog</button>
+    <button type="submit">Publish Blog</button>
+  </div>
+</form>
+
+</section>
+
+</body>
+</html>
